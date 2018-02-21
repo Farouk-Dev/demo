@@ -6,3 +6,4 @@ feature1 0
 feature1 1
 develop 1
 develop 2
+feature xxx 0
