@@ -9,9 +9,3 @@ develop 2
 feature /xxx /0
 feature /xxx /1
 feature yyy starting ...
-feauture yyy in progress
-dev
-dev1
-continue with feature yyy..
-dev2
-dev3
