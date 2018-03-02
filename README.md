@@ -18,13 +18,7 @@ dev3
 feature yyy
 dev4
 dev5
-<<<<<<< develop
 feature yyy ....
 dev6
-<<<<<<< develop
 dev7
-=======
-=======
-feature yyy ....
->>>>>>> feature yyy ...
->>>>>>> feature yyy ...
+dev 8
